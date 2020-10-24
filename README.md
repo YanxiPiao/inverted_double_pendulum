@@ -1,1 +1,1 @@
-# robotics_fall2020
+# inverted double pendulum
